@@ -1,5 +1,5 @@
 # Raspberry Pi System Cleaner
-**Author:** [YD9CVS](https://github.com/tutwidi)  
+**Author:** [Tutwidi](https://github.com/tutwidi)  
 **Script Name:** `clean-raspi.sh`  
 **Language:** Bash (Raspbian / Debian Compatible)
 
@@ -14,7 +14,7 @@
 - Repair broken dependencies  
 - Improve system performance  
 
-This script is **safe**, **lightweight**, and specifically built to **preserve important working directories** — especially your MMDVM firmware folder (`~/MMDVM_HS`).
+This script is **safe**, **lightweight**, and specifically built to **preserve important working directories** 
 
 ---
 
