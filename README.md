@@ -34,8 +34,8 @@ This script is **safe**, **lightweight**, and specifically built to **preserve i
 ### Download the script
 Clone this repository or copy the script manually:
 ```bash
-git clone https://github.com/tutwidi/clean-raspi.sh.git
-cd clean-raspi.sh.git
+git clone https://github.com/tutwidi/raspi-system-cleaner
+cd raspi-system-cleaner
 
 ## Make it executable
 chmod +x clean-raspi.sh
